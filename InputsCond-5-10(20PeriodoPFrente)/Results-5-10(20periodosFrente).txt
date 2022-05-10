@@ -1,0 +1,113 @@
+>> LoopTest_ptsTrade_v2
+Quantidade de trades antes classificador:
+   192
+
+Quantidade de trades pos classificador:
+   102
+
+Pts/Trade antes classificador:
+    0.8333
+
+Pts/Trade pos classificador:
+    0.9853
+
+Pts/Trade melhora classificador:
+    0.1520
+
+___________________
+Quantidade de trades antes classificador:
+   209
+
+Quantidade de trades pos classificador:
+    52
+
+Pts/Trade antes classificador:
+    0.9474
+
+Pts/Trade pos classificador:
+   -0.2788
+
+Pts/Trade melhora classificador:
+   -1.2262
+
+___________________
+Quantidade de trades antes classificador:
+   463
+
+Quantidade de trades pos classificador:
+   212
+
+Pts/Trade antes classificador:
+   -0.2408
+
+Pts/Trade pos classificador:
+   -0.7476
+
+Pts/Trade melhora classificador:
+   -0.5068
+
+___________________
+Quantidade de trades antes classificador:
+   239
+
+Quantidade de trades pos classificador:
+    91
+
+Pts/Trade antes classificador:
+    0.3661
+
+Pts/Trade pos classificador:
+    0.5330
+
+Pts/Trade melhora classificador:
+    0.1669
+
+___________________
+Quantidade de trades antes classificador:
+   101
+
+Quantidade de trades pos classificador:
+    39
+
+Pts/Trade antes classificador:
+    0.6683
+
+Pts/Trade pos classificador:
+    1.5128
+
+Pts/Trade melhora classificador:
+    0.8445
+
+___________________
+Quantidade de trades antes classificador:
+   287
+
+Quantidade de trades pos classificador:
+    98
+
+Pts/Trade antes classificador:
+   -0.6585
+
+Pts/Trade pos classificador:
+   -0.1173
+
+Pts/Trade melhora classificador:
+    0.5412
+
+___________________
+Quantidade de trades antes classificador:
+        1491
+
+Quantidade de trades pos classificador:
+   594
+
+Pts/Trade antes classificador:
+    0.1425
+
+Pts/Trade pos classificador:
+    0.0396
+
+Melhora em todos os periodos:
+   -0.1030
+
+############################
